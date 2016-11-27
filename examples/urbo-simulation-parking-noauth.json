@@ -5,7 +5,7 @@
   },
   "contextBroker": {
     "protocol": "http",
-    "host": "orion",
+    "host": "orion_orion_1",
     "port": 1026,
     "ngsiVersion": "1.0"
   },
